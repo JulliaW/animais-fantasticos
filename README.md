@@ -21,7 +21,7 @@ Projeto feito para desenvolver habilidades em JS.
   
 <h2 id="status">⌛ Status do projeto</h2>
 
-:white_check_mark: Projeto concluído :white_check_mark:
+:construction: Projeto em construção :construction:
 
 <h2 id="tec">💻 Tecnologias</h2>
 
