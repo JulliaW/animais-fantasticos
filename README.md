@@ -3,7 +3,7 @@
 
 <div align="center">
  
- ![image](https://github.com/JulliaW/jogo-da-velha/assets/73961301/c0a279ee-a0ee-4774-898f-26c797256d3d)
+ 
 
 </div>
 
@@ -17,7 +17,7 @@
 
 Projeto feito para desenvolver habilidades em JS.
 
-**Desenvolvido no curso "JavaScript Completo ES6" da <a href="https://www.origamid.com/">Origamid</a>
+*Desenvolvido no curso "JavaScript Completo ES6" da <a href="https://www.origamid.com/">Origamid</a>
   
 <h2 id="status">⌛ Status do projeto</h2>
 
